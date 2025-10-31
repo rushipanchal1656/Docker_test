@@ -42,5 +42,5 @@ Section 5: Docker Volumes
 6. b) myvol will appear immediately
 
 Practical Task:
-<img src="image" alt="Logo" width="200" height="100">
+<img src="/image.png" alt="Logo" width="200" height="100">
    
